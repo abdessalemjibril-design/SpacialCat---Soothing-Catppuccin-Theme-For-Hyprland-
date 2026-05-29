@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+WALLPAPER_DIR="/home/ndrax/Pictures/wallpapers" # Update your path here
+
+# Select a random image
+NEW_WALLPAPER=$(find "$WALLPAPER_DIR" -type f \( -iname "*.jpg" -o -iname "*.png" \) | shuf -n 1)
+
+if [ -n "$NEW_WALLPAPER" ]; then
+    # Reload handles preloading and unloading automatically
+    hyprctl hyprpaper reload ",$NEW_WALLPAPER"
+fi   
