@@ -2,13 +2,9 @@
 [WARNING] These dotfiles are for novices or linux ppl who know what they are doing.
 
 
+                 Spacial cat  
 
- ____                   _       _  ____      _   
-/ ___| _ __   __ _  ___(_) __ _| |/ ___|__ _| |_ 
-\___ \| '_ \ / _` |/ __| |/ _` | | |   / _` | __|
- ___) | |_) | (_| | (__| | (_| | | |__| (_| | |_ 
-|____/| .__/ \__,_|\___|_|\__,_|_|\____\__,_|\__|
-      |_|                                        
+            really the name is stupid-
 
       The Special One Who Got In Space...
 
